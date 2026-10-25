@@ -1,0 +1,9 @@
+{
+  "name": "ecommerce-persistent",
+  "version": "1.0.0",
+  "description": "Lab Task 7 - Part 2: E-commerce store endpoints using persistent storage (SQLite)",
+  "main": "server.js",
+  "engines": { "node": ">=22.13" },
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "express": "^4.19.2" }
+}
